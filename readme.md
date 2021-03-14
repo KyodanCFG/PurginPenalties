@@ -4,6 +4,8 @@ Version 1.1.0 (03.13.2021)
 By Kyodan
 
 This mod removes all mouse sensitivity penalties related to armor, rigs, and helmets!
+
+**Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/PurginPenalties/releases**
                                                                                    
 ## Info
 
