@@ -1,6 +1,6 @@
 Purgin' Penalties (for JET v1.1.0)
 ----------------
-Version 1.1.0 (03.13.2021)
+Version `1.1.0` (`03.13.2021`)
 By Kyodan
 
 This mod removes all mouse sensitivity penalties related to armor, rigs, and helmets!
