@@ -1,6 +1,6 @@
 Purgin' Penalties (for JET Server v1.1.0) ![GitHub all releases](https://img.shields.io/github/downloads/KyodanCFG/PurginPenalties/total?color=green&label=Downloads&style=flat-square)
 ----------------
-Version `1.1.0` (`03.13.2021`)
+Version `1.1.0` (`03.13.2021`) 
 By Kyodan
 
 This mod removes all mouse sensitivity penalties related to armor, rigs, and helmets!
